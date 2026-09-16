@@ -1,0 +1,5 @@
+streamlit==1.38.0
+ezdxf
+fpdf2
+matplotlib
+protobuf==4.25.3
